@@ -1,7 +1,15 @@
+COMMENT CONTRIBUER AU PROJET 
 
-Voici comment se déroule le projet : 
+Contribution avec du code : 
+Vous pouvez rajouter du code servant à : 
+- améliorer le projet
+- ajouter des fonctionnalités
+- réparer des bugs
 
-1.  - à faire par Logan KOUYOUMDJIAN
-2.  - à faire par Thomas HERBEMONT
-3.  - à faire par Amelle AITELHADJ
-4.  - à faire par Axelle DJAMADE
+
+Contribution avec de la documentation : 
+
+Vous pouvez contribuer en écrivant des documents pour expliquer le fonctionnement de l'application. Vous pouvez mettre en place des tutoriels écrit afin de décrire l'installation et l'utilisation de l'application. La documentation peut contenir du code expliquer étape par étape afin d'aider à la compréhension. 
+
+
+
