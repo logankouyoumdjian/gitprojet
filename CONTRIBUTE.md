@@ -1,4 +1,4 @@
-# COMMENT CONTRIBUER AU PROJET 
+# COMMENT CONTRIBUER AU PROJET :
 
 # Contribution avec du code : 
 Vous pouvez rajouter du code servant à : 
